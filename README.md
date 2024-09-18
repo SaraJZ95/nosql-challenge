@@ -1,5 +1,5 @@
 
-NoSQL Challenge
+###NoSQL Challenge
 
 This project analyzes UK restaurant ratings from the Food Standards Agency. I imported the data from establishments.json into MongoDB using the command:
 
